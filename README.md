@@ -1,21 +1,15 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
-  
 
 - ❓ Ask me about anything you want  
   
-
 - ⚡ Fun fact: https://www.youtube.com/watch?v=dQw4w9WgXcQ  
-  
 
 <br/>  
 
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -27,8 +21,6 @@
 
 </td><td valign="top" width="33%">
 
-
-
 ### Backend  
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
@@ -36,8 +28,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
-
 
 ### DevOps  
 <div align="center">  
@@ -54,7 +44,6 @@
 
 <br/>  
 
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/sadpersonn" target="_blank">
@@ -62,9 +51,7 @@
 </a>  
 </div>  
   
-
 <br/>  
-
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sadpersonn&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
@@ -74,9 +61,5 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=sadpersonn&&style=flat-square" align="center" />
 </div>  
-  
 
 <br/>  
-
-
-<br />
