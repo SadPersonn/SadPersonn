@@ -3,6 +3,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SadPersonn&show_icons=true&theme=radical" />
 </div
 
-* [![Rust][rust-lang.org]][Rust-url]
-
-rust-lang.org
+* [![Next][Next.js]][Next-url]
